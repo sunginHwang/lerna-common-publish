@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "sungin-c-util",
+    "sungin-c-helper"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true,
+      "forceLocal": true
+    }
+  },
+  "version": "0.0.0"
+}

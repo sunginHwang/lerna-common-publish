@@ -1,0 +1,21 @@
+{
+  "name": "sungin-c-util",
+  "version": "1.0.0",
+  "description": "fe util ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "wemake",
+    "wonder",
+    "fe",
+    "helper"
+  ],
+  "author": "sungin",
+  "license": "ISC",
+  "dependencies": {
+    "current-device": "^0.10.1",
+    "jest": "^26.0.1"
+  }
+}
