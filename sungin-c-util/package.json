@@ -1,6 +1,6 @@
 {
   "name": "sungin-c-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fe util ",
   "main": "index.js",
   "scripts": {
