@@ -1,6 +1,6 @@
 {
   "name": "sungin-c-helper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "fe helper ",
   "main": "index.js",
   "scripts": {
